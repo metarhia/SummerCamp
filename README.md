@@ -12,7 +12,7 @@
 |-------------------------------------|-------------------------------------------------|------|-------------|
 | [Metarhia CMS](#metarhia-cms)       | [tshemsedinov](https://github.com/tshemsedinov) | RU   | Markdown-based CMS, using Github as admin panel |
 | [CI/CD](#cicd)                      |                                                 |      | Infrastructure, CI/CD, DevOps tools |
-| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU/EN| Schema-based type checking and scaffolding |
+| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU/EN | Schema-based type checking and scaffolding |
 | [Metacom client](#metacom-client)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   | RPC protocol with tcp, http, and ws transports |
 | [Metacom streams](#metacom-streams) | [rohiievych](https://github.com/rohiievych)     | UA   | Duplex multiplexing file streams |
 | [File storage](#file-storage)       |                                                 |      | File storage library for MinIO and S3 |
@@ -66,7 +66,7 @@
 
 - Repository: https://github.com/metarhia/metatests
 - Open issues: https://github.com/metarhia/metatests/issues
-- Telegram group:
+- Telegram group: https://t.me/joinchat/2RLxBESTlRRhZjUy
 
 ## Metharhia docs
 
@@ -74,10 +74,10 @@
 - Repository: https://github.com/metarhia/metarhia.com
 - Open issues: https://github.com/metarhia/metarhia-docs/issues
 - Open issues: https://github.com/metarhia/metarhia.com/issues
-- Telegram group:
+- Telegram group: https://t.me/joinchat/P9N-CU0RggM2MjFi
 
 ## Metarouter
 
 - Repository:
 - Open issues:
-- Telegram group:
+- Telegram group: https://t.me/joinchat/P9N-CU0RggM2MjFi
