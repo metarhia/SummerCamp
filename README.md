@@ -12,9 +12,11 @@
 |-------------------------------------|-------------------------------------------------|------|
 | [Metarhia CMS](#metarhia-cms)       | [tshemsedinov](https://github.com/tshemsedinov) | RU   |
 | [CI/CD](#cicd)                      |                                                 |      |
-| [Metaschema](#metaschema)           |                                                 |      |
+| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU   |
 | [Metacom client](#metacom-client)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   |
-| [Metacom streams](#metacom-streams) |                                                 |      |
+| [Metacom streams](#metacom-streams) | [rohiievych](https://github.com/rohiievych)     | UA   |
+| [File storage](#file-storage)       |                                                 |      |
+| [Mail subsystem](#mail-subsystem)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   |
 
 ## Metarhia CMS
 
@@ -44,3 +46,15 @@
 - Repository: https://github.com/metarhia/metacom
 - Open issues: https://github.com/metarhia/metacom/issues
 - Telegram group: https://t.me/joinchat/y8YHMD-_OS5mMGQy
+
+## File storage
+
+- Repository: https://github.com/metarhia/metastorage
+- Open issues: https://github.com/metarhia/metastorage/issues
+- Telegram group: https://t.me/joinchat/1Gyj_DYrIlNkYjEy
+
+## Mail subsystem
+
+- Repository: https://github.com/metarhia/metamail
+- Open issues: https://github.com/metarhia/metamail/issues
+- Telegram group: https://t.me/joinchat/YYPK6Wm8ompjMmIy
