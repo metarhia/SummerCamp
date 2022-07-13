@@ -20,6 +20,7 @@
 | [Metatests](#metatests)             |                                                 | RU   | Metatests enchancement and impress test-mode |
 | [Metharhia docs](#metarhia-docs)    |                                                 | RU   | Tech stack documentation and docs website |
 | [Metarouter](#metarouter)           |                                                 | RU   | HTTP router for enterprise migration |
+| [Book](#book)             | [tshemsedinov](https://github.com/tshemsedinov) | RU | Metaprogramming book |
 
 ## Metarhia CMS
 
@@ -81,3 +82,9 @@
 - Repository:
 - Open issues:
 - Telegram group: https://t.me/joinchat/P9N-CU0RggM2MjFi
+
+## Book
+
+- Repository: https://github.com/HowProgrammingWorks/Book
+- Telegram group: https://t.me/metaedu
+
