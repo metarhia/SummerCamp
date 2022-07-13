@@ -46,9 +46,10 @@
 
 ## Metacom streams
 
-- Repository: https://github.com/metarhia/metacom
-- Open issues: https://github.com/metarhia/metacom/issues
+- Repository: https://github.com/metarhia/metacom/tree/streams
+- Open issues: https://github.com/metarhia/metacom/issues?q=is%3Aissue+is%3Aopen+label%3Astreams
 - Telegram group: https://t.me/joinchat/y8YHMD-_OS5mMGQy
+- Streams usage example: https://github.com/rohiievych/metacom-streams-example
 
 ## File storage
 
