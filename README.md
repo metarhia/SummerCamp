@@ -12,11 +12,14 @@
 |-------------------------------------|-------------------------------------------------|------|-------------|
 | [Metarhia CMS](#metarhia-cms)       | [tshemsedinov](https://github.com/tshemsedinov) | RU   | Markdown-based CMS, using Github as admin panel |
 | [CI/CD](#cicd)                      |                                                 |      | Infrastructure, CI/CD, DevOps tools |
-| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU   | Schema-based type checking and scaffolding |
+| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU/EN| Schema-based type checking and scaffolding |
 | [Metacom client](#metacom-client)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   | RPC protocol with tcp, http, and ws transports |
 | [Metacom streams](#metacom-streams) | [rohiievych](https://github.com/rohiievych)     | UA   | Duplex multiplexing file streams |
 | [File storage](#file-storage)       |                                                 |      | File storage library for MinIO and S3 |
 | [Mail subsystem](#mail-subsystem)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   | Mail send and delivery subsystem |
+| [Metatests](#metatests)             |                                                 | RU   | Metatests enchancement and impress test-mode |
+| [Metharhia docs](#metarhia-docs)    |                                                 | RU   | Tech stack documentation and docs website |
+| [Metarouter](#metarouter)           |                                                 | RU   | HTTP router for enterprise migration |
 
 ## Metarhia CMS
 
@@ -58,3 +61,23 @@
 - Repository: https://github.com/metarhia/metamail
 - Open issues: https://github.com/metarhia/metamail/issues
 - Telegram group: https://t.me/joinchat/YYPK6Wm8ompjMmIy
+
+## Metatests and impress test-mode
+
+- Repository: https://github.com/metarhia/metatests
+- Open issues: https://github.com/metarhia/metatests/issues
+- Telegram group:
+
+## Metharhia docs
+
+- Repository: http://github.com/Paul4Olden/metarhia-docs
+- Repository: https://github.com/metarhia/metarhia.com
+- Open issues: https://github.com/metarhia/metarhia-docs/issues
+- Open issues: https://github.com/metarhia/metarhia.com/issues
+- Telegram group:
+
+## Metarouter
+
+- Repository:
+- Open issues:
+- Telegram group:
