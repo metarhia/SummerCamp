@@ -8,15 +8,15 @@
 
 ## Groups
 
-| Name                                | Leader                                          | Lang |
-|-------------------------------------|-------------------------------------------------|------|
-| [Metarhia CMS](#metarhia-cms)       | [tshemsedinov](https://github.com/tshemsedinov) | RU   |
-| [CI/CD](#cicd)                      |                                                 |      |
-| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU   |
-| [Metacom client](#metacom-client)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   |
-| [Metacom streams](#metacom-streams) | [rohiievych](https://github.com/rohiievych)     | UA   |
-| [File storage](#file-storage)       |                                                 |      |
-| [Mail subsystem](#mail-subsystem)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   |
+| Name                                | Leader                                          | Lang | Description |
+|-------------------------------------|-------------------------------------------------|------|-------------|
+| [Metarhia CMS](#metarhia-cms)       | [tshemsedinov](https://github.com/tshemsedinov) | RU   | Markdown-based CMS, using Github as admin panel |
+| [CI/CD](#cicd)                      |                                                 |      | Infrastructure, CI/CD, DevOps tools |
+| [Metaschema](#metaschema)           | [georgolden](https://github.com/georgolden)     | RU   | Schema-based type checking and scaffolding |
+| [Metacom client](#metacom-client)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   | RPC protocol with tcp, http, and ws transports |
+| [Metacom streams](#metacom-streams) | [rohiievych](https://github.com/rohiievych)     | UA   | Duplex multiplexing file streams |
+| [File storage](#file-storage)       |                                                 |      | File storage library for MinIO and S3 |
+| [Mail subsystem](#mail-subsystem)   | [tshemsedinov](https://github.com/tshemsedinov) | RU   | Mail send and delivery subsystem |
 
 ## Metarhia CMS
 
