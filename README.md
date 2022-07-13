@@ -20,6 +20,7 @@
 | [Metatests](#metatests)             |                                                 | RU   | Metatests enchancement and impress test-mode |
 | [Metharhia docs](#metarhia-docs)    |                                                 | RU   | Tech stack documentation and docs website |
 | [Metarouter](#metarouter)           |                                                 | RU   | HTTP router for enterprise migration |
+| [Meta book](#meta-book)             | [vadymshturkhal](https://github.com/vadymshturkhal) | RU/UA | Book for free metarhia course
 
 ## Metarhia CMS
 
@@ -81,3 +82,8 @@
 - Repository:
 - Open issues:
 - Telegram group: https://t.me/joinchat/P9N-CU0RggM2MjFi
+
+## Meta book
+- Repository: https://github.com/HowProgrammingWorks/Book
+- Telegram group:
+
