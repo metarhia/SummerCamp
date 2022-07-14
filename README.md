@@ -115,3 +115,16 @@ HTTP router for enterprise migration
 ## PR and Media
 
 - Telegram group: https://t.me/+8nzQYlwbdUFiZjUy
+
+## Worker Threads Working Group
+
+- Repo: https://github.com/metarhia/noroutine
+- Issues: https://github.com/metarhia/noroutine/issues
+
+## Utilities and tools
+
+- Repo: https://github.com/metarhia/metautil/issues
+
+## MetaSQL
+
+- Repo: https://github.com/metarhia/metasql/issues
