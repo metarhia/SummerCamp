@@ -107,3 +107,11 @@ HTTP router for enterprise migration
 - Repository: https://github.com/HowProgrammingWorks/Book
 - Telegram group: https://t.me/metaedu
 - Leader: [Timur Shemsedinov](https://github.com/tshemsedinov)
+
+## Design
+
+- Telegram group: https://t.me/+kPpkhrpRnaBlODNi
+
+## PR and Media
+
+- Telegram group: https://t.me/+8nzQYlwbdUFiZjUy
