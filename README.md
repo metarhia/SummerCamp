@@ -3,9 +3,9 @@
 ## How to start
 
 - Please fill the form to register: https://forms.gle/tp15barQMhicrpJi9
-- Calls video recordings: [playlist](https://youtube.com/playlist?list=PLHhi8ymDMrQYEncnRabYxnNfRFLrnK9Gp)
-- You can see all issues in all repositories created for Metarhis Summer Camp 2022: [search](https://github.com/search?q=label%3Ametarhia-s%2722&type=Issues)
-- See groups to contribute but please request group leader for assignment before start implementing an issue.
+- Watch calls video recordings: [playlist](https://youtube.com/playlist?list=PLHhi8ymDMrQYEncnRabYxnNfRFLrnK9Gp)
+- You can see all issues in all repositories created for Metarhis Summer Camp 2022: [search](https://github.com/search?q=label%3Ametarhia-s%2722&state=open&type=Issues)
+- See groups to contribute but please request group leader for assignment before start implementing an issue
 
 ## Groups
 
